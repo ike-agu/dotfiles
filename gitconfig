@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ikennaww@yahoo.fr
+	name = Ikenna Agulobi
